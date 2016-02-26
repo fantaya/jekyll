@@ -34,8 +34,6 @@ Whether you're a developer, a designer, or just a Jekyll devotee, there are lots
 
 * If you're submitting a code contribution, be sure to read the [code contributions](#code-contributions) section below.
 
-* Don't bump the Gem version in your pull request (if you don't know what that means, you probably didn't).
-
 ### Submitting a pull request via github.com
 
 Many small changes can be made entirely through the github.com web interface.
@@ -92,9 +90,11 @@ If your contribution changes any Jekyll behavior, make sure to update the docume
 
 * If it's a brand new feature, create a new [Cucumber](https://github.com/cucumber/cucumber/) feature, reusing existing steps where appropriate.
 
-### Ruby style
+### Code contributions generally
 
-Jekyll follows the [GitHub Ruby Styleguide](https://github.com/styleguide/ruby).
+* Jekyll follows the [GitHub Ruby Styleguide](https://github.com/styleguide/ruby).
+
+* Don't bump the Gem version in your pull request (if you don't know what that means, you probably didn't).
 
 ## Running tests locally
 
