@@ -1,10 +1,4 @@
----
-layout: docs
-title: Contributing
-permalink: /docs/contributing/
----
-
-# Contribute to Jekyll
+# Contributing to Jekyll
 
 Hi there! Interested in contributing to Jekyll? We'd love your help. Jekyll is an open source project, built one contribution at a time by users like you.
 
