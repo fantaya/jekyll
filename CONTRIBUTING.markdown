@@ -5,6 +5,7 @@ Hi there! Interested in contributing to Jekyll? We'd love your help. Jekyll is a
 ## Where to get help or report a problem
 
 * If you have a question about using Jekyll, start a discussion on https://talk.jekyllrb.com.
+* If you think you've found a bug within a Jekyll plugin, open an issue in that plugin's repository.
 * If you think you've found a bug within Jekyll itself, [open an issue](https://github.com/jekyll/jekyll/issues/new)
 
 ## Ways to contribute
